@@ -1,0 +1,3 @@
+<p>This script gets the Select list (single choice) custom field value defined for the issue and assigns it to the single select attribute value as a default value in WorklogPro dialog. Follow the path Jira Administration -> Manage apps -> WorklogPro -> Scripts and paste the script after selecting ‘Before Worklog Dialog Display’ type.</p>
+
+See https://thestarware.atlassian.net/servicedesk/customer/portal/2/JPS-891
